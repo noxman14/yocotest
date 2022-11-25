@@ -1,5 +1,5 @@
 const yocoSDK = new window.YocoSDK({
-    publicKey: 'pk_test_ed3c54a6gOol69qa7f45'
+    publicKey: 'pk_test_d9d8241ewEVw3Mocd584'
 });
 
 //Popup Method
